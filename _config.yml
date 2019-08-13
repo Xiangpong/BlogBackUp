@@ -78,7 +78,9 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: git@github.com:Xiangpong/xiangpong.github.io.git
+  branch: master
 
 
 jsonContent:
@@ -109,3 +111,4 @@ feed:
     content:
     content_limit:
     content_limit_delim: ' '
+
