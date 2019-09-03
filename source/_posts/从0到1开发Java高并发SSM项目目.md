@@ -8,7 +8,6 @@ tags:
 categories: 笔记
 ---
 
-# 从0到1开发java高并发SSM项目
 
 ## 前排感谢wistbean老师，我是在他的指导下一步一步实现这个项目的开发的！！！
 
@@ -17,6 +16,8 @@ wistbean老师的github：https://github.com/wistbean
 ## 什么是从0到1
 
 这里的从0到1不是通过我个人魅力把一个gay掰直了，而是通过开发一个电商网站，系统学习Java web开发和SSM框架的使用等知识。
+
+<!-- more -->
 
 ## 什么是框架
 
@@ -31,7 +32,7 @@ wistbean老师的github：https://github.com/wistbean
 
 通俗的说，框架是完成是某种应用的半成品，提供了一些常用的工具类和一些基础通用化的组件，可以供开发人员在此基础上，更便捷的完成各自特有的系统。
 
-<!-- more -->
+
 
 ## 什么是SSM框架
 
